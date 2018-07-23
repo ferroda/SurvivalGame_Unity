@@ -4,5 +4,5 @@ You can find almost anything in the field, I’ve created mountains (but its not
 
 I’ve used C# .Net for creating the frame of the game. You can find it in the Scripts folder. I tried not to break the SOLID principles as much as I can. There are a lot of possibilities for development. For mention I would like build in an inventory section, animals (hunting fuctions) and of course different difficulty fields and real gameover when the character lost his vitality. 
 
-You can visualize the whole field (terrain) in developer mode, if you open it in Unity3D. 
+You can visualize the whole field (terrain) in developer mode (where you can start the game), if you open it in Unity3D after download the zip file.
 
